@@ -1,5 +1,7 @@
 ## C++ String class
 
+[![Build Status](https://travis-ci.org/hshixun/String.svg?branch=master)](https://travis-ci.org/hshixun/String)
+
 This C++ String class provides string manipulation similar to C# String.
 
 Modified from the work in 2011.
